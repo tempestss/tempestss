@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Febilah Purtin 
-- 👨‍🎓 ɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴅᴇᴘᴀʀᴛᴍᴇɴᴛ - UNIVERSITY DIAN NUSWANTORO
+- 👨‍🎓 ɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴅᴇᴘᴀʀᴛᴍᴇɴᴛ - University Dian Nuswantoro
 - 👀 I’m beginner for code 
 - 🌱 I’m currently learning JS and HTML
 - 💞️ I’m still learning for my code 
